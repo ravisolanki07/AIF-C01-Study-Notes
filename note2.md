@@ -385,3 +385,4 @@ AWS Foundation Model family.
 ---
 
 ### Nova 2 Multimodal Embeddings
+](https://github.com/ravisolanki07/AIF-C01-Study-Notes/blob/main/note2)
